@@ -1,0 +1,19 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+
+# Flex/Bison generated files
+lex.yy.c
+parser.tab.c
+parser.tab.cpp
+parser.tab.h
+parser.tab.hpp
+y.tab.c
+y.tab.h
+
+# Misnamed binary (same size as .exe)
+PE1/PES1UG23CS169_lex.l
+
+# Editor config
+.vscode/
